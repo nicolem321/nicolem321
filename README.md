@@ -1,3 +1,4 @@
-Hi, I am Nicole Meng, a senior at Brandeis University 
-I am working towards a B.S. in Computer Science, Applied Math, and Economics
-My current research area is Adversarial Machine Learning
+Hi, I am Nicole Meng, a current PhD student at Tufts University. 
+My research area include AI security, computer vision, and adversarial machine learning.
+Prior to Tufts, I completed my MS in CSE @UConn, and my BS in CS, Math, and Economics @Brandeis. 
+
